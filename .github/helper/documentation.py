@@ -4,13 +4,13 @@ from urllib.parse import urlparse
 import requests
 
 WEBSITE_REPOS = [
-	"erpnext_com",
-	"frappe_io",
+	"sibyl.pk",
+	"sibyl.pk",
 ]
 
 DOCUMENTATION_DOMAINS = [
-	"docs.erpnext.com",
-	"docs.frappe.io",
+	"docs.sibyl.pk",
+	"docs.sibyl.pk",
 	"frappeframework.com",
 ]
 

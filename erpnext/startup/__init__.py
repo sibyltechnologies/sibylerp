@@ -1,4 +1,4 @@
-# ERPNext - web based ERP (http://erpnext.com)
+# ERPNext - web based ERP (http://sibyl.pk)
 # Copyright (C) 2012 Sibyl Technologies Pvt Ltd
 #
 # This program is free software: you can redistribute it and/or modify

@@ -25,7 +25,7 @@ class TestProject(ERPNextTestSuite):
 		from erpnext.setup.doctype.employee.test_employee import make_employee
 
 		project_name = "Test Project Costing"
-		employee = make_employee("employee@frappe.io")
+		employee = make_employee("employee@sibyl.pk")
 		project = make_project({"project_name": project_name})
 		timesheet = make_timesheet(
 			employee=employee,
