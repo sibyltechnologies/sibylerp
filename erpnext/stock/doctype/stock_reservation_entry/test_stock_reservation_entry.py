@@ -1,4 +1,4 @@
-# Copyright (c) 2023, Frappe Technologies Pvt. Ltd. and Contributors
+# Copyright (c) 2023, Sibyl Technologies and Contributors
 # See license.txt
 
 from random import randint

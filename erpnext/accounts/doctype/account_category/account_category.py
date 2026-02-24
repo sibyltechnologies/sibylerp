@@ -1,4 +1,4 @@
-# Copyright (c) 2025, Frappe Technologies Pvt. Ltd. and contributors
+# Copyright (c) 2025, Sibyl Technologies and contributors
 # For license information, please see license.txt
 import json
 import os
